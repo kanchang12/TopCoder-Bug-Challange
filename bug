@@ -19,4 +19,54 @@ Type: UI BUG
 
 ****************************************************************************************************************************************
 
-Second Bug
+Second Bug: Functional
+
+Bug Title: The option to change profile from Tester to Customer is provided but not working
+
+Steps to Reproduce:
+  1. Open http://www.topcoder.com
+  2. Click on the "Get Started" button at the center of the page
+  3. Click on the "Talent" button on the center left
+  4. Wait for the page to load and then log in using credentials
+  5. From the top right corner, click the profile image and click Profile
+  6. From Profile page, again click on profile picture and then click account settings
+  7. Change the Account Role from Talent to Customer
+  8. Logout and try to login agains: this time as Topcoder Customer
+  9. Try to login again as Talent
+  10. Follow the steps 5 and 6 and change Account role to Talent again
+
+Actual Result: With the credentials of Talent, the user is unable to login as Topcoder Customer
+
+Expected Result: If the functionality is given, then the user should be able to switch profile between Talent and customer.
+
+Link: https://drive.google.com/file/d/1IYBwg1nYAipqpSHemP4TWlz-qIO6Le41/view?usp=sharing
+      
+
+Type: Functional Bug
+
+
+********************************************************************************************************************************
+
+Third Bug: Functional
+
+Title: Notification Setting Link not working
+
+Steps to Reproduce:
+  1. Open http://www.topcoder.com
+  2. Click on the "Get Started" button at the center of the page
+  3. Click on the "Talent" button on the center left
+  4. Wait for the page to load and then log in using credentials
+  5. From the top right corner, click on the bell icon
+  6. Click on Notification settings link
+  7. Click on Notification settings button
+
+
+Actual Result: The links are not responsive, nothing is happening when they are clicked
+
+Expected Result: The link should open settings page when clicked
+
+Link: https://drive.google.com/file/d/19wksPLWjtgiReTRnuWDIjGzyuVL3wymn/view?usp=sharing
+      
+
+Type: Functional Bug
+
