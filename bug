@@ -1,0 +1,22 @@
+#First Bug: UI Issue
+
+Bug Title: Text of the page is right alligned instead of proper center alligned
+
+Steps to Rrproduce:
+  1. Open http://www.topcoder.com
+  2. Click on the "Get Started" button at the center of the page
+  3. Click on the "Talent" button on the center left
+  4. Wait for the page to load
+
+Actual Result: The text in the page is right aligned and therefore looking very bad. UI problem
+
+Expected Result: The text in the middle of the page should be center alligned. Thus making it looking good.
+
+Link: https://drive.google.com/file/d/1IL_w5jNsCO7w21yM67ru-w7XdwSjQpQL/view?usp=sharing
+      https://drive.google.com/file/d/1KxOpCmllFfaq5VXX2035tKt8TAEkbMV1/view?usp=sharing
+
+Type: UI BUG
+
+****************************************************************************************************************************************
+
+Second Bug
